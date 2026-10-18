@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+._*
+
+# Build artifacts
+/dist/
+*.crx
+*.pem
+!icons/
+
+# Local browser profiles & test files
+.chrome-profile*/
+.startup-test*/
+.test-*
+*.log
+
+# Node (not required by this project)
+node_modules/

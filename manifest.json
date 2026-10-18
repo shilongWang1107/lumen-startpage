@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "LUMEN · 光屿",
+  "short_name": "LUMEN",
+  "version": "1.0.0",
+  "description": "一座有呼吸感的私人新标签页：磨砂玻璃、macOS 式程序坞、双搜索引擎与轻量小组件。",
+  "minimum_chrome_version": "120",
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_title": "打开 LUMEN 新标签页",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
