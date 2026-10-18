@@ -13,6 +13,9 @@
     <code>0 permissions</code>&nbsp;&nbsp;
     <code>MIT</code>
   </p>
+  <p>
+    <a href="https://github.com/shilongWang1107/lumen-startpage/releases/latest"><strong>Download the extension&nbsp;&nbsp;·&nbsp;&nbsp;下载扩展</strong></a>
+  </p>
 </div>
 
 ![LUMEN · 光屿 — Chrome 新标签页](preview/lumen-store-1280x800.png)
@@ -28,6 +31,10 @@
 ## 中文
 
 ### 安装
+
+**下载打包版**
+
+前往 [最新 Release](https://github.com/shilongWang1107/lumen-startpage/releases/latest) 下载 `lumen-startpage-v1.0.0.zip`，解压后按下方步骤加载。
 
 **从源码加载（本地开发）**
 
@@ -97,6 +104,10 @@ LUMEN 没有账号、分析统计、广告或远程代码。备忘、设置、�
 ## English
 
 ### Install
+
+**Download the packaged build**
+
+Get `lumen-startpage-v1.0.0.zip` from the [latest Release](https://github.com/shilongWang1107/lumen-startpage/releases/latest), then follow the steps below after unzipping it.
 
 **Load from source (local development)**
 
